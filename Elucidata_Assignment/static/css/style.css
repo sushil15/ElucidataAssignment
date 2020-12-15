@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-size: 1.6rem;
+    background-color:white; 
+    font-family: 'Courier New', Courier, monospace;
+    width: 100vw;
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center-div{
+    -webkit-box-shadow: 4px 1px 32px 4px rgba(235,217,235,0.88);
+    -moz-box-shadow: 4px 1px 32px 4px rgba(235,217,235,0.88);
+    box-shadow: 4px 1px 32px 4px rgba(235,217,235,0.88);
+}
